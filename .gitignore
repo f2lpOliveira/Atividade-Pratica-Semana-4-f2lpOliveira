@@ -1,0 +1,5 @@
+.cache/
+.lesson/
+.config/
+.replit
+replit.nix
